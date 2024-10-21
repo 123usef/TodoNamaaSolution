@@ -1,0 +1,6 @@
+@TodoNamaa.Api_HostAddress = http://localhost:5122
+
+GET {{TodoNamaa.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
